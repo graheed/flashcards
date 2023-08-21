@@ -8,8 +8,6 @@ The Flashcards Program is an interactive command-line application that allows yo
 - [Features](#features)
 - [Usage](#usage)
 - [Command List](#command-list)
-- [Getting Started](#getting-started)
-- [License](#license)
 
 ## Introduction
 
