@@ -1,0 +1,10 @@
+
+’
+java:S1319""pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ê¸¬ııÿÿÿÿ8ÕÕ—Ø1
+o
+java:S2095"MUse try-with-resources or close this "LogOutputStream" in a "finally" clause.(ˆË”ùÿÿÿÿ8ŞÕ—Ø1
+o
+java:S2095"MUse try-with-resources or close this "LogOutputStream" in a "finally" clause.(˜±î¼üÿÿÿÿ8ŞÕ—Ø1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆË”ùÿÿÿÿ8æÕ—Ø1
+`
+java:S4349)">Provide an override of "write(byte[],int,int)" for this class.(‰í¨şÿÿÿÿ8èÕ—Ø1

@@ -1,0 +1,43 @@
+
+h
+java:S1192k"KDefine a constant instead of duplicating this literal "File name:" 3 times.(ç˜áƒ8ğ¿Ó±1
+†
+java:S1319"jThe type of "newFlashCards" should be an interface such as "Set" rather than the implementation "HashSet".(¨ƒâ_8ö„ï±1
+
+java:S1319&"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(Å²ƒÜıÿÿÿÿ8Şëï±1
+
+java:S1319Í"cThe type of "log" should be an interface such as "List" rather than the implementation "ArrayList".(«®º8ò¿Ó±1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ØÍ²ıøÿÿÿÿ8øÂÓ±1
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(Äá½Ş8úÂÓ±1
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(²˜ÅÖ8ıÂÓ±1
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(¾ŞÅÛ8ÃÓ±1
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(åü¶÷8‚ÃÓ±1
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(ç˜áƒ8ƒÃÓ±1
+T	java:S106y"9Replace this use of System.out or System.err by a logger.(æîôT8‡ÃÓ±1
+U	java:S106›"9Replace this use of System.out or System.err by a logger.(æîôT8‹ÃÓ±1
+V	java:S106±"9Replace this use of System.out or System.err by a logger.(ç˜áƒ8ÃÓ±1
+X
+java:S1117¶":Rename "reader" which hides the field declared at line 18.(ˆ·­Í8ÃÓ±1
+V	java:S106Á"9Replace this use of System.out or System.err by a logger.(ßıè‚8”ÃÓ±1
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(üšÃüùÿÿÿÿ8•ÃÓ±1
+X
+java:S1117Û":Rename "reader" which hides the field declared at line 18.(ˆ·­Í8—ÃÓ±1
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(ßıè‚8›ÃÓ±1
+[	java:S106é"9Replace this use of System.out or System.err by a logger.(üšÃüùÿÿÿÿ8›ÃÓ±1
+V	java:S106ú"9Replace this use of System.out or System.err by a logger.(ô†¨ø8ÃÓ±1
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(£ˆşÿÿÿÿ8¢ÃÓ±1
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(·‰µıÿÿÿÿ8£ÃÓ±1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ø‚¿Æ8¤ÃÓ±1
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(Âÿ…µ8¦ÃÓ±1
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(êûŞ£ûÿÿÿÿ8©ÃÓ±1
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(’‰û8­ÃÓ±1
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(§Üõï8´ÃÓ±1
+V	java:S106Î"9Replace this use of System.out or System.err by a logger.(ç˜áƒ8¶ÃÓ±1
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Ø¥×Âÿÿÿÿÿ8·ÃÓ±1
+[	java:S106ú"9Replace this use of System.out or System.err by a logger.(ÉöĞîûÿÿÿÿ8¹ÃÓ±1
+[	java:S106ü"9Replace this use of System.out or System.err by a logger.(ôªìÏúÿÿÿÿ8ºÃÓ±1
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(ä¼Æúÿÿÿÿ8»ÃÓ±1
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¤Ê²™ıÿÿÿÿ8½ÃÓ±1
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(Ú„Ğ¢8£·‰²1
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ì–åğ8çÇ‹²1
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(Û¿Ë”ùÿÿÿÿ8óÏŒ²1
